@@ -1,0 +1,18 @@
+Newest at top
+
+2/14/2016 15:50 Added comments to controllers and models 
+2/14/2016 03:18 Created sidebar, added click jpg, polished look
+2/14/2016 02:18 Updated template and css
+2/13/2016 11:18 Modified template
+2/13/2016 11:18 Modified css - correctly displays footer
+2/13/2016 11:18 Fixed the player info panel
+2/12/2016 16:15 Added a logo
+2/12/2016 13:57 Added the portfolio view
+2/12/2016 13:17 Added the dropdown view
+2/11/2016 21:12 Added the playerslist view
+2/11/2016 20:49 Added the MY_Model
+2/11/2016 20:27 Added the robots model
+2/11/2016 13:51 Created the css file
+2/11/2016 12:53 Added the database connection
+2/11/2016 10:32 Created all the base pages and made them work
+2/04/2016 Initial file
